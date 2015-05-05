@@ -8,9 +8,11 @@ Now lets see if we can get Jenkins to post to ReviewBoard
 
 Lets see how rbt tools likes these apples
 
-This should automatically publish
+This should automatically publish (rpt post -p)
 
 Now we see the magic happen
 
 maybe this time...
+
+That worked, but maybe this will work better, using --username and --password cli arguments to rbt post
 
