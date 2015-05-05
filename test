@@ -38,3 +38,6 @@ Apparently Jenkins doesn't ilke -gt... maybe > will work right...
 I love bash scripting soooooooooo much right now ((end sarcasm))
 
 test brackets are killing me here...
+
+Added shebang to make sure Jenkins uses bash
+
