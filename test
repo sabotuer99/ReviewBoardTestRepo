@@ -19,5 +19,7 @@ That worked, but maybe this will work better, using --username and --password cl
 Maybe try this with a meaningful commit message
 
 
-hopefully this opens a new review
+hopefully this opens a new review (opened a DIFFERENT open review... this requires some more exploration)
+
+Deleted all the open reviews, so we should definitely get a new review this commit.
 
