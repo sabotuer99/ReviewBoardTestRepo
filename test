@@ -5,3 +5,27 @@ Now lets see if I can get Jenkins working...
 Maybe this time...
 
 Now lets see if we can get Jenkins to post to ReviewBoard
+
+Lets see how rbt tools likes these apples
+
+This should automatically publish (rpt post -p)
+
+Now we see the magic happen
+
+maybe this time...
+
+That worked, but maybe this will work better, using --username and --password cli arguments to rbt post
+
+Maybe try this with a meaningful commit message
+
+
+hopefully this opens a new review (opened a DIFFERENT open review... this requires some more exploration)
+
+Deleted all the open reviews, so we should definitely get a new review this commit.... lol it dug up another draft or something
+
+Let's try this again... Ok so the -u option will cause it to fail if there isn't a review to edit
+
+added "|| rbt post..." after update attempt... should create new if an existing wasn't found.
+
+Gave "jenkins" user permission to submit as another user, and added some scripting to make it happen... testing testing...
+
