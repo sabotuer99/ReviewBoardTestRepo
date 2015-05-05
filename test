@@ -29,3 +29,5 @@ added "|| rbt post..." after update attempt... should create new if an existing 
 
 Gave "jenkins" user permission to submit as another user, and added some scripting to make it happen... testing testing...
 
+getting a little smarter with how review updates are handled 
+
